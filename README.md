@@ -13,9 +13,10 @@ Hi! Im Lautaro, a fullstack web developer who is passionate about learning new t
 - CSS / Sass 
 - NextJS
 - NodeJs
-- Express // Http
+- Express
 - MongoDB // SQL // MySQL
-- AWS / Firebase 
+- AWS
+- Firebase and // Firestore
 - Docker
 - PHP
 
