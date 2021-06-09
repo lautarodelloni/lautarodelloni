@@ -1,16 +1,27 @@
-### Hi there 👋
+# < ¡Hello, World! /> 👋 👨‍💻
 
-<!--
-**lautarodelloni/lautarodelloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## LAUTARO DELLONI
+### Software Development Analyst
 
-Here are some ideas to get you started:
+Hi! Im Lautaro, a fullstack web developer who is passionate about learning new technologies and making open-source projects. Im currently working on [MercadoLibre](https://www.linkedin.com/company/mercadolibre )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🥇 Skills:
+
+- ReactJS
+- Angular
+- Typescript
+- CSS / Sass 
+- NextJS
+- NodeJs
+- Express // Http
+- MongoDB // SQL // MySQL
+- AWS / Firebase 
+- Docker
+- PHP
+
+## Find me around the world! 🌎
+
+- Linkedin: [Lautaro Delloni](https://www.linkedin.com/in/lautarodelloni)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lautarodelloni&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
